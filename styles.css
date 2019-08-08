@@ -1,0 +1,90 @@
+h1 {
+  color:darkblue;
+  text-align: center;
+  font-size: 50px;
+  font-style: normal;
+}
+
+img {
+  height:210px;
+  width: 210px;
+  object-fit:cover;
+  padding: 5px;
+}
+
+.container {
+  display: flex;
+  border: 1px solid;
+  border-style: solid;
+  justify-content: space-around;
+  flex-wrap: wrap;
+
+}
+.box{
+
+}
+
+.container1 {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.box{
+
+}
+
+.container2 {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.box{
+
+}
+
+.container3 {
+  display: flex;
+  border: 1px solid;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.box{
+
+}
+
+h1{
+  color:darkblue;
+}
+
+html{
+  background-color:white;
+}
+
+div{
+  background-color: white;
+}
+
+.Traditional{color:purple;
+            text-align: center;
+            font-size: 35px;
+            font-style:italic;
+}
+.Street{color:green;
+        text-align: center;
+        font-size: 35px;
+        font-style:italic;
+}
+.Desserts{color:hotpink;
+          text-align: center;
+          font-size: 35px;
+          font-style:italic;
+}
+.Snacks{color:brown;
+      text-align: center;
+      font-size: 35px;
+      font-style:italic;
+
+}
